@@ -1,1 +1,1 @@
-# Irish_Flower_Prediction
+# irrish-flower_classification
